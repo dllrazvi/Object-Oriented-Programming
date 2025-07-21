@@ -1,0 +1,5 @@
+﻿  school_service.cpp
+  school_service.h
+  Generating Code...
+x64\Debug\school_service.obj : warning LNK4042: object specified more than once; extras ignored
+  T1.vcxproj -> C:\Users\rzvbo\source\repos\T1\x64\Debug\T1.exe
