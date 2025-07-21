@@ -1,0 +1,3 @@
+Body: Sedan | Electric | Autonomy: 100 | Price: 3001.000000 | Total Price: 11001.000000
+Body: Sedan | Electric | Autonomy: 150 | Price: 3001.500000 | Total Price: 11001.500000
+Body: Sedan | Turbo | Price: 3100.000000 | Total Price: 11100.000000
