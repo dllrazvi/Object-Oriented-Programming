@@ -1,0 +1,17 @@
+C++ | programming language | general-purpose programming
+Java | programming language | object-oriented
+Python | interpreted language | AI and data science
+HTML | markup language | used to structure web pages
+CSS | stylesheet language | controls layout and style
+JavaScript | scripting language | frontend and backend
+SQL | database language | used for queries and management
+React | JavaScript library | for building UI components
+Node.js | runtime environment | server-side JavaScript
+Jack Sparrow | pirate | featured in Pirates of the Caribbean
+Captain America | superhero | Marvel Comics character
+Spider-Man | superhero | friendly neighborhood hero
+Hogwarts | school | of witchcraft and wizardry
+Gandalf | wizard | from The Lord of the Rings
+University | higher education | undergraduate and postgraduate education
+Doctor Strange | sorcerer | Marvel universe
+Iron Man | billionaire inventor | wears powered armor suit
