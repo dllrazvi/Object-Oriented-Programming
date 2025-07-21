@@ -1,0 +1,3 @@
+DishWasher ID: DW123, Consumed Electricity for One Hour: 1.5 KW, Monthly Consumption: 30 KW
+Refrigerator ID: RF123, Class: A++, Has Freezer: Yes, Consumed Electricity: 80 KW
+Refrigerator ID: RF124, Class: A, Has Freezer: No, Consumed Electricity: 90 KW
