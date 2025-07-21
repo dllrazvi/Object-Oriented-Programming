@@ -1,0 +1,5 @@
+10;11;Running;85;cardio
+8;9;b;90;strength training
+10;12;Yoga;50;flexibility
+9;10;Cycling;80;high intensity
+10;11;HIT;95;high intensity
