@@ -1,0 +1,22 @@
+[2023-07-11 15:45:39] [info] Start Program:
+Path:"C:\Users\rzvbo\source\repos\OOP-a67\x64\Debug\OOP-a67.exe"
+Arguments:
+Working directory: "C:\Users\rzvbo\source\repos\OOP-a67\OOP-a67\"
+Modules: Selected: C:\Users\rzvbo\source\repos\OOP-a67\x64\Debug\OOP-a67.exe Excluded: 
+Sources: Selected: C:\Users\rzvbo\source\repos\OOP-a67\OOP-a67 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\rzvbo\AppData\Local\Temp\ufc2l43b.3hc 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-07-11 15:45:39] [info] Module: C:\Users\rzvbo\source\repos\OOP-a67\x64\Debug\OOP-a67.exe is selected because it matches selected pattern: C:\Users\rzvbo\source\repos\OOP-a67\x64\Debug\OOP-a67.exe
+[2023-07-11 21:04:48] [info] ----------------------------------------------------
+[2023-07-11 21:04:48] [info] Coverage binary generated in file: C:\Users\rzvbo\AppData\Local\Temp\ufc2l43b.3hc
+[2023-07-11 21:04:48] [info] ----------------------------------------------------
+[2023-07-11 21:04:48] [error] Your program stop with error code: 1
