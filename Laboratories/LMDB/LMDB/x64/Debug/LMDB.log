@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\LMDB\LMDB\DynamicVector.h(40,48): warning C5037: 'DynamicVector<T>::DynamicVector': an out-of-line definition of a member of a class template cannot have default arguments
+  (compiling source file 'main.cpp')
+  
+C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\LMDB\LMDB\DynamicVector.h(77,44): warning C5037: 'DynamicVector<T>::resize': an out-of-line definition of a member of a class template cannot have default arguments
+  (compiling source file 'main.cpp')
+  
+  LMDB.vcxproj -> C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\LMDB\x64\Debug\LMDB.exe

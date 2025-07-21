@@ -1,0 +1,24 @@
+[2025-04-17 17:29:54] [info] Start Program:
+Path:"C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\LMDB\x64\Debug\LMDB.exe"
+Arguments:
+Working directory: "C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\LMDB\LMDB\"
+Modules: Selected: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\LMDB\x64\Debug\LMDB.exe Excluded: 
+Sources: Selected: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\LMDB\LMDB Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Html C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\Coverage reports Binary C:\Users\rzvbo\AppData\Local\Temp\p01d50tu.t23 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2025-04-17 17:29:54] [info] Module: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\LMDB\x64\Debug\LMDB.exe is selected because it matches selected pattern: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\LMDB\x64\Debug\LMDB.exe
+[2025-04-17 17:32:13] [info] ----------------------------------------------------
+[2025-04-17 17:32:13] [info] Coverage generated in Folder C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\Coverage reports
+[2025-04-17 17:32:13] [info] ----------------------------------------------------
+[2025-04-17 17:32:13] [info] ----------------------------------------------------
+[2025-04-17 17:32:13] [info] Coverage binary generated in file: C:\Users\rzvbo\AppData\Local\Temp\p01d50tu.t23
+[2025-04-17 17:32:13] [info] ----------------------------------------------------
