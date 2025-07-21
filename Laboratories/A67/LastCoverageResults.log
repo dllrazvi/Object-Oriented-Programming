@@ -1,0 +1,22 @@
+[2025-05-15 16:31:40] [info] Start Program:
+Path:"C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A67\A67\x64\Debug\A67.exe"
+Arguments:
+Working directory: "C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A67\A67"
+Modules: Selected: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A67\A67\x64\Debug\A67.exe Excluded: 
+Sources: Selected: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A67\A67\A45 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\rzvbo\AppData\Local\Temp\i13r0prs.qwy 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2025-05-15 16:31:40] [info] Module: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A67\A67\x64\Debug\A67.exe is selected because it matches selected pattern: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A67\A67\x64\Debug\A67.exe
+[2025-05-15 20:02:15] [info] ----------------------------------------------------
+[2025-05-15 20:02:15] [info] Coverage binary generated in file: C:\Users\rzvbo\AppData\Local\Temp\i13r0prs.qwy
+[2025-05-15 20:02:15] [info] ----------------------------------------------------
+[2025-05-15 20:02:15] [error] Your program stop with error code: -1073741510

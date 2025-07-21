@@ -1,0 +1,11 @@
+XL,magenta,100,84,https://github.com/cs-ubbcluj-ro/
+S,green,230,4,https://www.facebook.com
+XXL,black,300,4,https://storage0.dms.mpinteractiv.ro/media/1/1/4728/17838649/1/ou.jpg
+S,red,30,8,https://github.com/cs-ubbcluj-ro/
+XL,green,100,4,https://www.pbinfo.ro
+S,black,150,7,https://filelist.io/login.php?returnto=%2F
+M,green,4,10,https://en1.onlinevideoconverter.pro/53/youtube-converter-mp3
+XL,red,100,6,https://www.youtube.com
+M,gree,100,7,https://codeforces.com
+XXS,black,100,9,https://www.mobile.de/ro/
+XS,red,69,6,da
