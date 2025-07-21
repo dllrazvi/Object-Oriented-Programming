@@ -1,0 +1,21 @@
+[2024-04-10 19:23:32] [info] Start Program:
+Path:"C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A45\A45\x64\Debug\A45.exe"
+Arguments:
+Working directory: "C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A45"
+Modules: Selected: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A45\A45\x64\Debug\A45.exe Excluded: 
+Sources: Selected: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A45\A45\A45 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\rzvbo\AppData\Local\Temp\2pm2bg2r.2pd 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-04-10 19:23:32] [info] Module: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A45\A45\x64\Debug\A45.exe is selected because it matches selected pattern: C:\Users\rzvbo\OneDrive\Desktop\UBB\anul 1 - sem 2\TemeOOP\A45\A45\x64\Debug\A45.exe
+[2024-04-10 19:23:33] [info] ----------------------------------------------------
+[2024-04-10 19:23:33] [info] Coverage binary generated in file: C:\Users\rzvbo\AppData\Local\Temp\2pm2bg2r.2pd
+[2024-04-10 19:23:33] [info] ----------------------------------------------------
