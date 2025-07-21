@@ -1,0 +1,2 @@
+Bob;Hackathon;Coding contest with prizes;12 12;2024-07-01; Ana Clara
+Erik;DesignJam;UI/UX workshop;15 15;2024-07-05; David

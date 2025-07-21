@@ -1,0 +1,3 @@
+Alice;Party1;Desc1;1.5 2.2;2025-06-25;
+Bob;Hackathon1;Desc2;9.8 10.2;2025-06-30;
+Alice;FarAway;Desc3;20.0 20.0;2025-07-01;

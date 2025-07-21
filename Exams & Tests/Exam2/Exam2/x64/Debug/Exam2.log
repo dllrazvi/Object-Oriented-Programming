@@ -1,0 +1,10 @@
+﻿   Qt/MSBuild: 3.4.0.1
+   Qt: 6.5.1
+  uic PersonWindow.ui
+  PersonWindow.cpp
+  Exam2.cpp
+  main.cpp
+  qrc_Exam2.cpp
+  moc_Exam2.cpp
+  moc_PersonWindow.cpp
+  Exam2.vcxproj -> C:\Users\rzvbo\source\repos\Exam2\x64\Debug\Exam2.exe
