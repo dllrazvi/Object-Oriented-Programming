@@ -1,0 +1,6 @@
+Andrei,Party1,facem party,10,11,2023.07.15
+Marian,Party2,facem party,12,11,2023.06.17
+Andreea,Party3,facem party,13,11,2023.05.17
+Andrei,Party4,facem,15,16,2023.04.10
+Andrei,Party5,facem party,9,11,2023.01.15
+Marian,Party6,facem party,5,7,2023.02.15
