@@ -4,7 +4,7 @@ This repository summarizes my work and knowledge from the Object-Oriented Progra
 ## Course Overview
 The course combined solid theoretical foundations with hands-on implementation, focusing on two main components:
 
-1. Object-Oriented Concepts in C++
+### 1. Object-Oriented Concepts in C++
 - Principles of Encapsulation, Abstraction, Inheritance, and Polymorphism
 
 - Designing and implementing custom classes with proper constructors, destructors, copy constructors, and assignment operators
@@ -19,7 +19,7 @@ The course combined solid theoretical foundations with hands-on implementation, 
 
 - Understanding dynamic memory management and best practices with pointers and references
 
-2. Graphical Applications using Qt
+### 2. Graphical Applications using Qt
 - Building GUI applications with the Qt framework
 
 - Working with signals and slots for event-driven programming
