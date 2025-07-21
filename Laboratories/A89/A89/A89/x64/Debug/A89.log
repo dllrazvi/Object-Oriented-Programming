@@ -1,0 +1,3 @@
+﻿  A89.cpp
+D:\Quick access files\OOP\Homework\A89\A89\A89\A89.cpp(12,11): error C2039: 'on_pushButton_clicked': is not a member of 'A89'
+D:\Quick access files\OOP\Homework\A89\A89\A89\A89.h(6,7): message : see declaration of 'A89'
