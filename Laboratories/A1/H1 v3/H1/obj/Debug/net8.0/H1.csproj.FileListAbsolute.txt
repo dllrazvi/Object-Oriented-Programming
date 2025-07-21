@@ -1,0 +1,14 @@
+C:\Users\rzvbo\source\repos\H1\H1\obj\Debug\net8.0\H1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzvbo\source\repos\H1\H1\obj\Debug\net8.0\H1.AssemblyInfoInputs.cache
+C:\Users\rzvbo\source\repos\H1\H1\obj\Debug\net8.0\H1.AssemblyInfo.cs
+C:\Users\rzvbo\source\repos\H1\H1\obj\Debug\net8.0\H1.csproj.CoreCompileInputs.cache
+C:\Users\rzvbo\source\repos\H1\H1\bin\Debug\net8.0\H1.exe
+C:\Users\rzvbo\source\repos\H1\H1\bin\Debug\net8.0\H1.deps.json
+C:\Users\rzvbo\source\repos\H1\H1\bin\Debug\net8.0\H1.runtimeconfig.json
+C:\Users\rzvbo\source\repos\H1\H1\bin\Debug\net8.0\H1.dll
+C:\Users\rzvbo\source\repos\H1\H1\bin\Debug\net8.0\H1.pdb
+C:\Users\rzvbo\source\repos\H1\H1\obj\Debug\net8.0\H1.dll
+C:\Users\rzvbo\source\repos\H1\H1\obj\Debug\net8.0\refint\H1.dll
+C:\Users\rzvbo\source\repos\H1\H1\obj\Debug\net8.0\H1.pdb
+C:\Users\rzvbo\source\repos\H1\H1\obj\Debug\net8.0\H1.genruntimeconfig.cache
+C:\Users\rzvbo\source\repos\H1\H1\obj\Debug\net8.0\ref\H1.dll
